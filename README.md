@@ -1,21 +1,15 @@
-# Update
-Update Lagi bre Nih 🗿
+Perintah Termux :
+$ apt update -y && apt upgrade -y
+$ pkg install git
+$ pkg install python3
+$ pip3 install -r requirements.txt
+$ git clone https://github.com/Dhanz03/Update
+$ cd Update
+$ mkdir Data && mkdir Results
+$ python3 anjay.py
 
-
-Perintah sama kaya Sc yang fbnew1.py 
-Tapi Kalo udah isntall semua module yang udah 
-kalian tinggal copy aja yang di bawah ini 
-
-# git clone https://github.com/Dhanz03/Update.git 
-
-# ls 
-
-# cd Update 
-
-# python Update.py 
-
-Terimakasih Jangan lupa Folow dan kasi bintang 🌟
-
-Thanks To MCA Muaslim Cyber Army 
-
-# Dhanz Maker 🌟🌟🌟
+Update Script :
+$ rm -rf $HOME/Update
+$ git clone https://github.com/Dhanz03/Update
+$ cd Update
+$ python3 anjay.py 
