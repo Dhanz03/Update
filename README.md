@@ -37,11 +37,11 @@ $ pkg install play-audio
 ```
 
 ```
-$ git clone https://github.com/Dhanz03/update
+$ git clone https://github.com/Dhanz03/Update
 ```
 
 ```
-$ cd update
+$ cd Update
 ```
 
 ```
