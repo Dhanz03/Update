@@ -1,27 +1,57 @@
 # Perintah Termux :
 
-$ apt update -y && apt upgrade -y
+```
+$ pkg update && pkg upgrade
+```
 
+```
 $ pkg install git
+```
 
-$ pkg install python3
+```
+$ pkg install python
+```
 
-$ pip3 install -r requirements.txt
+```
+$ pip install mechanize
+```
 
-$ git clone https://github.com/Dhanz03/Update
+```
+$ pip install requests
+```
 
-$ cd Update
+```
+$ pip install stdiomask
+```
 
-$ mkdir Data && mkdir Results
+```
+$ pip install bs4
+```
 
-$ python3 anjay.py
+```
+$ pip install rich
+```
 
-# Update Script :
+```
+$ pkg install play-audio 
+```
 
-$ rm -rf $HOME/Update
+```
+$ git clone https://github.com/Dhanz03/update
+```
 
-$ git clone https://github.com/Dhanz03/Update
+```
+$ cd update
+```
 
-$ cd Update
+```
+$ git pull 
+```
 
-$ python3 anjay.py 
+```
+$ ls 
+```
+
+```
+$ python BRUTEFACEBOOKDIN.py
+```
